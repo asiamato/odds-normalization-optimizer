@@ -69,3 +69,4 @@ class Pipeline:
         print(f"BS (Simplex Projection):  {bs_proj:.4f}")
 
 if __name__ == "__main__":
+    Pipeline().run()
